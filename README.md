@@ -10,8 +10,9 @@ These tasks were designed to help us understand how neural networks work.
 
  - Task 3 is the same thing however the network was made using Pytorch so can be used as a comparison. 
  - The results of one of the network and variable setups that provided good results can be seen below (the setup is the same as for task 2 for comparison):
-![image](https://user-images.githubusercontent.com/72444456/157115792-02ffd236-576e-4759-a78f-cb50cac82874.png)
-![image](https://user-images.githubusercontent.com/72444456/157115797-ea0e5238-65f2-4191-b26c-7a3900d6f991.png)
+![image](https://user-images.githubusercontent.com/72444456/157115880-0685bb08-17be-43b8-a760-64107854a0cf.png)
+![image](https://user-images.githubusercontent.com/72444456/157115893-a1f5911c-d018-4af9-bc74-f0e08b70fafd.png)
+
 
 The dataset can be accssed via the follwing link:
 http://yann.lecun.com/exdb/mnist/
