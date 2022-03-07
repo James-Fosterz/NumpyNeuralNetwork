@@ -1,7 +1,6 @@
 # NumpyNeuralNetwork
 
-This was Unviersity Coursework that has been preovously submitted and shows my learning as obviously much fo this can be improved.
-These tasks were designed to help us understand how neural networks work.
+This was Unviersity Coursework that has been preovously submitted and shows my learning as obviously much fo this can be improved. All worked was udnertaken with a partner and the coursework was submitted together. These tasks were designed to help us understand how neural networks work.
 
  - Task 2 is the numpy neural network used to evlauate images from the MNIST hadn written digits dataset. 
  - The results of one of the network and variable setups that provided good results can be seen below:
